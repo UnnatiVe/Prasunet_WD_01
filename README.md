@@ -1,7 +1,9 @@
 # PRASUNET_WD_01
 ### Responsive Landing Page
 
-### Responsive Travel Website
+# JourneyToIndia
+### Project Overview
+
 
 - JourneyToIndia website Design Using HTML CSS & JavaScript
 - Contains animations when scrolling.
