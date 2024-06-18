@@ -1,11 +1,11 @@
 # PRASUNET_WD_01
 ### Responsive Landing Page
 
-# JourneyToIndia
+# JourneyThroughIndia
 ### Project Overview
 
 
-- JourneyToIndia website Design Using HTML CSS & JavaScript
+- JourneyThroughIndia website Design Using HTML CSS & JavaScript
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
 - Developed first with the Mobile First methodology, then for desktop.
